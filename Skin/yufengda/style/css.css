@@ -24,7 +24,7 @@ a{text-decoration:none;color:#666; blr:expression(this.onFocus=this.blur());}
 /*头部结束*/
 
 /*导航开始*/
-.nav{width:100%;height:42px;background:#3da200;}
+.nav{width:100%;height:42px;background:#434841;}
 .nav li{display:block;width:100px;text-align:center;line-height:42px;float:left;margin-right:10px;}
 .nav li a{color:#fff;font-size:15px; display: block;}
 .nav li:hover{background:#ff6600;}
@@ -51,7 +51,7 @@ a{text-decoration:none;color:#666; blr:expression(this.onFocus=this.blur());}
 /*产品展示*/
 .product-show{width:1100px;margin:0 auto;padding:50px 0 20px;}
 .product-list{width:1100px;overflow:hidden;}
-.product-list ul li{display:block;width:219px;float:left;height:46px;line-height:46px;background:#3da200;border-right:1px solid #328600;text-align:center;}
+.product-list ul li{display:block;width:219px;float:left;height:46px;line-height:46px;background:#434841;border-right:1px solid #328600;text-align:center;}
 .product-list ul li a{color:#fff;font-size:18px; display:block;}
 .product-list ul li.on{background:#ff6600;}
 .product-list ul li:hover{background:#ff6600;}
@@ -73,7 +73,7 @@ a{text-decoration:none;color:#666; blr:expression(this.onFocus=this.blur());}
 .about-con{margin-top:40px;}
 .about-left{float:left;}
 .about-right{width:630px;float:right;}
-.about-right h2{font-size:20px;color:#3da200;padding-bottom:5px;}
+.about-right h2{font-size:20px;color:#434841;padding-bottom:5px;}
 .about-right h3{font-size:14px;color:#b3b3b3;padding-bottom:15px;}
 .about-right .words{line-height:30px;}
 .about-link{padding-top:20px;}
@@ -161,12 +161,12 @@ padding-left: 25px;}
 
 /*底部*/
 .friend-link{width:100%;height:51px;background:#f0f0f0;line-height:50px;border-top:1px solid #d3d3d3;}
-.friend-link h2{float:left;font-size:18px;color:#3da200;}
+.friend-link h2{float:left;font-size:18px;color:#434841;}
 .friend-link h2 span{font-size:16px;color:#9d9d9d;margin-left:20px;}
 .friend-list{float:left;margin-left:20px;}
 .friend-list a{display:inline-block;margin:0 10px;}
 
-.f-bottom{width:100%;height:273px;background:#3da200;}
+.f-bottom{width:100%;height:273px;background:#434841;}
 .wenxin{width:186px;height:223px;float:left;background:#328600;text-align:center;color:#fff;padding-top:50px;}
 .wenxin p.words{line-height:40px;}
 
